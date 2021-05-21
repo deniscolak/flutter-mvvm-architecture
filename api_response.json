@@ -1,0 +1,22 @@
+{
+    "status": 200,
+    "message": "success",
+    "count": 3,
+    "quotes": [
+        {
+            "text": "It's easier to see the mistakes on someone else's paper.",
+            "author": "Anonymous",
+            "tag": "general"
+        },
+        {
+            "text": "Every man dies. Not every man really lives.",
+            "author": "Anonymous",
+            "tag": "general"
+        },
+        {
+            "text": "Today is the tomorrow we worried about yesterday.",
+            "author": "Anonymous",
+            "tag": "general"
+        }
+    ]
+}
